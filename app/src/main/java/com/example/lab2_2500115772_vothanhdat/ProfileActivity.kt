@@ -1,10 +1,10 @@
 package com.example.lab2_2500115772_vothanhdat
 
 import android.os.Bundle
-import androidx.activity.ComponentActivity
+import androidx.appcompat.app.AppCompatActivity
 import com.example.lab2_2500115772_vothanhdat.databinding.ActivityProfileBinding
 
-class ProfileActivity : ComponentActivity() {
+class ProfileActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityProfileBinding
 
